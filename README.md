@@ -32,11 +32,14 @@ An interactive Power BI dashboard designed to analyse sales, customer performanc
 
 ## Dashboard Pages
 
-### Sales Overview
-![Sales Overview](images/sales-overview.png)
+### 1. Sales Overview
+![Sales Overview](1-Sales%20Overview.jpg)
 
-### Customer Analysis
-![Customer Analysis](power-bi-sales-performance-dashboard/1-Sales Overview.jpg)
+### 2. Customer Analysis
+![Customer Analysis](2-Customer%20Analysis.jpg)
 
-### Sales Order Details
-![Sales Order Details](images/sales-order-details.png)
+### 3. Sales Order Details
+![Sales Order Details](3-Sale%20Order%20Details.jpg)
+
+### 4. Insights & Recommendations
+![Insights and Recommendations](4-Insights%20%26%20Recommendations.jpg)
